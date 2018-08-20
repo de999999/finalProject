@@ -427,8 +427,6 @@ section #widget .box {
   margin-top: 100px;
 }
 
-<head>
-<style>
 input.MyButton {
 width: 300px;
 padding: 20px;
@@ -440,10 +438,9 @@ color: #fff;
 border: 1px solid #3366cc;
 border-radius: 10px;
 }
+
 input.MyButton:hover {
 color: #ffff00;
 background: #000;
 border: 1px solid #fff;
 }
-</style>
-</head>
